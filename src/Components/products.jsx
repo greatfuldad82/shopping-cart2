@@ -224,5 +224,5 @@ const products = [
       </Container>
     );
   };
-  export default Products;
+export default Products;  
   
